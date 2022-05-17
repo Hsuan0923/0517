@@ -10,10 +10,10 @@ This course require student to use the vs code to develop our project and push t
 
 ```text
   echo "# 0517" >> README.md
-  git init
-  git add README.md
-  git commit -m "first commit"
-  git branch -M main
-  git remote add origin https://github.com/Hsuan0923/0517.git
-  git push -u origin main
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/Hsuan0923/0517.git
+    git push -u origin main
 ```  
