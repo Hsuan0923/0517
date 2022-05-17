@@ -6,7 +6,8 @@ This course require student to use the vs code to develop our project and push t
 
 1.Register a github account (done) \
 2.New a repository on the github \
-3.Open vs code then git clone this repository
+3.Open vs code then git clone this repository \
+
 ---text
   echo "# 0517" >> README.md
   git init
