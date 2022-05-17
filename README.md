@@ -1,4 +1,4 @@
-# 0517
+# 0517 v2
 AIoT Lecture 14 Ppractice (0517)：\
 <b>Prject Goal</b> \
 We are going to develop  an AIoT web using Flask.
